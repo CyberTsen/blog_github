@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Hello My Bolg.
+## Hello My Blog.
 
 
 
