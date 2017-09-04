@@ -5,9 +5,9 @@ title: 空指针
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[2017-09-04](/_posts/another-page.md).
+[2017-09-04](/another-page).
 
-[博客页面排版demo](/_posts/demo.md).
+[博客页面排版demo](/another-page).
 
 There should be whitespace between paragraphs.
 
