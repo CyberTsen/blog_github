@@ -10,7 +10,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 [博客页面排版demo](_posts/demo).
 
 
-[Another Page](another-page).
+[Another Page](another-page.md).
 
 There should be whitespace between paragraphs.
 
