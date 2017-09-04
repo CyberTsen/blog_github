@@ -3,7 +3,6 @@ layout: default
 title: 空指针
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [2017-09-04](_posts/another-page.md).
 
