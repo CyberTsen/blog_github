@@ -2,8 +2,8 @@
 layout: default
 ---
 
-## Welcome to another page
+## Hello My Bolg.
 
-_yay_
+
 
 [back](./)
