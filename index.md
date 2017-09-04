@@ -7,7 +7,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [2017-09-04](_posts/another-page.md).
 
-[博客页面排版demo](_posts/demo).
+[博客页面排版demo](_posts/demo.md).
 
 
 [Another Page](another-page.md).
