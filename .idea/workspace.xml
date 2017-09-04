@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c87dd94f-35ad-4511-a5c6-fb9bdd385883" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2017-09-04-AndroidStudio 离线加载Gradle.html" afterPath="$PROJECT_DIR$/posts/2017-09-04-AndroidStudio 离线加载Gradle.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/another-page.md" afterPath="$PROJECT_DIR$/posts/another-page.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/demo.md" afterPath="$PROJECT_DIR$/posts/demo.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.md" afterPath="$PROJECT_DIR$/index.md" />
-    </list>
+    <list default="true" id="c87dd94f-35ad-4511-a5c6-fb9bdd385883" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -74,9 +68,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="20" />
-    <option name="y" value="42" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="75" />
+    <option name="y" value="44" />
     <option name="width" value="1260" />
     <option name="height" value="683" />
   </component>
@@ -152,15 +146,15 @@
       <workItem from="1504506350154" duration="176000" />
       <workItem from="1504506550930" duration="410000" />
       <workItem from="1504507121532" duration="4335000" />
-      <workItem from="1504511677559" duration="1203000" />
+      <workItem from="1504511677559" duration="1286000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12063000" />
+    <option name="totallyTimeSpent" value="12146000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="20" y="42" width="1260" height="683" extended-state="0" />
+    <frame x="75" y="44" width="1260" height="683" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24939467" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
