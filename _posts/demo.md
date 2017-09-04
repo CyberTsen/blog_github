@@ -1,6 +1,5 @@
 ---
 layout: default
-title: 空指针
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
