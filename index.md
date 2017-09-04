@@ -4,7 +4,7 @@ title: 空指针
 ---
 
 
-[2017-09-04](_posts/another-page).
+[2017-09-04](https://cybertsen.github.io/blog_github/_posts/another-page).
 
 
 [博客页面排版demo](demo).
