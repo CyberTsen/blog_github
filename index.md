@@ -1,5 +1,6 @@
 ---
 layout: default
+
 title: 空指针
 ---
 
@@ -7,12 +8,12 @@ title: 空指针
 
 [博客页面排版demo](demo.md)
 
-[Android 相关](android_home.md)
+[Android](android_home.md)
 
 
 [Node.js](demo.md)
 
-[PHP ](demo.md)
+[PHP](demo.md)
 
 [Front End](demo.md)
 
