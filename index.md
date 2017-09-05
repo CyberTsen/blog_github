@@ -23,7 +23,7 @@ title: 空指针
 
 [Others](android_home.md)
 
-[测试跳转post目录下的文件](_posts/2017-09-05-demo.md)
+[测试跳转post目录下的文件](android/2017-09-05-demo.md)
 
 
 
