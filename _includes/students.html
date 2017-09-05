@@ -1,0 +1,45 @@
+<div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="headingTwo">
+      <h1 class="panel-title" id="classBanner">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">.ourClass {<span class="glyphicon glyphicon-resize-vertical"></span></a>
+      </h1>
+    </div>
+    <div id="collapseTwo" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingTwo">
+      <div class="panel-body">
+        <div id="studentPics">
+
+        <a href="https://soundcloud.com/nashville-software-school/sets/cohort-11" target="_blank">
+          <div id="soundcloud">
+            <img src="/images/soundcloud.png" alt="SoundCloud logo">
+            <p id="sctext1">Learn more about the members of our cohort!</p>
+            <p id="sctext2"><strong>Click here</strong> to listen to our Demo Day interviews.</p>
+
+          </div>
+        </a>
+
+        <div id="gridWrapper">
+            {% for post in site.posts %}
+              {% if post.flipCard == "true" %}
+             <div class="flip-container " ontouchstart="this.classList.toggle('hover');">
+
+                <div class="flipper">
+                  <div class="front" style="background-image: url({{post.imgUrl}})"><span class="info">i</span>
+                  <!-- front content -->
+                  </div>
+                  <div class="back">
+                  <h2>{{post.firstName}} {{post.lastName}}</h2>
+                  <p class="studentText">{{post.body}}</p>
+                  <p id="links">
+                    <a href="{{post.websiteUrl}}" target="_blank">Portfolio</a>&nbsp; | &nbsp;<a href="{{post.githubUrl}}" target="_blank">Github</a>&nbsp; | &nbsp;<a href="{{post.linkedInUrl}}" target="_blank">LinkedIn</a>
+                  </p>
+                  </div>
+                </div>
+              </div>
+              {% endif %}
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <h1 id="classBanner2">}</h1>
