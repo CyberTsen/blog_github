@@ -1,8 +1,10 @@
 ---
 layout: default
+
+title: Ohthers
 ---
 
-[back](./)
+[back](../)
 
 [博客页面排版demo](demo.md)
 
