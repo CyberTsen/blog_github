@@ -1,18 +1,5 @@
-#Created by webjeda - http://webjeda.com
-
-title: Bheema #Keep it short
-email: your@email.com
-
-
-baseurl: /bheema
-
-sass:
- style: compressed
- 
- 
-# Tracker
-analytics: UA-83979019-1
- 
-### exclude the instructions / write-up in the README.md
-exclude:
-- README.md
+title: 我的博客
+description: 好记性，不如烂笔头。
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-hacker
