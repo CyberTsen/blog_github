@@ -3,11 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c87dd94f-35ad-4511-a5c6-fb9bdd385883" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/index.md" afterPath="$PROJECT_DIR$/android/index.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/index.md" afterPath="$PROJECT_DIR$/frontend/index.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kotlin/index.md" afterPath="$PROJECT_DIR$/kotlin/index.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mysql/index.md" afterPath="$PROJECT_DIR$/mysql/index.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node/index.md" afterPath="$PROJECT_DIR$/node/index.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/index.md" afterPath="$PROJECT_DIR$/php/index.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,12 +16,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="357">
-                <caret line="25" column="25" lean-forward="true" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+              <first_editor relative-caret-position="105">
+                <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/android/index.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="300">
+                <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -100,12 +108,12 @@
         <option value="$PROJECT_DIR$/index.md" />
         <option value="$PROJECT_DIR$/android/android_2017-09-04.md" />
         <option value="$PROJECT_DIR$/kotlin/index.md" />
-        <option value="$PROJECT_DIR$/android/index.md" />
         <option value="$PROJECT_DIR$/node/index.md" />
         <option value="$PROJECT_DIR$/php/index.md" />
         <option value="$PROJECT_DIR$/mysql/index.md" />
         <option value="$PROJECT_DIR$/frontend/index.md" />
         <option value="$PROJECT_DIR$/others/index.md" />
+        <option value="$PROJECT_DIR$/android/index.md" />
       </list>
     </option>
   </component>
@@ -210,18 +218,18 @@
       <workItem from="1504506550930" duration="410000" />
       <workItem from="1504507121532" duration="4335000" />
       <workItem from="1504511677559" duration="3860000" />
-      <workItem from="1504516368852" duration="11523000" />
+      <workItem from="1504516368852" duration="11851000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26243000" />
+    <option name="totallyTimeSpent" value="26571000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="20" y="37" width="1260" height="683" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20661823" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20661823" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -631,23 +639,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/android/index.md">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="90">
-            <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/node/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -712,8 +703,25 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="357">
-            <caret line="25" column="25" lean-forward="true" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+          <first_editor relative-caret-position="105">
+            <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/index.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="300">
+            <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
