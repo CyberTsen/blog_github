@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[back](./)
+[back](../)
 
 [2017-09-04](/another-page).
 
