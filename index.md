@@ -23,7 +23,7 @@ title: 空指针
 [Front End](frontend/index.md)
 
 
-[Others](others/index.md)
+[Others](pieces/index.md)
 
 
 
