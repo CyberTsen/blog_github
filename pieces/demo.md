@@ -6,9 +6,6 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [back](../)
 
-[2017-09-04](/another-page).
-
-[博客页面排版demo](/another-page).
 
 There should be whitespace between paragraphs.
 
